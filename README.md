@@ -15,7 +15,7 @@ Analyze the user journey across funnel stages:
 
 Tools & Technologies
 - Python: exploratory analysis and visualization (Jupyter Notebook)
-- Jupyter Notebook: `Digital_Marketing_Analysis.ipynb`
+- Jupyter Notebook: Digital_Marketing_Analysis.ipynb
 - SQL: KPI calculation (ROI, CPA, purchase rate) and funnel aggregation
 - Excel: storing and sharing exported funnel results
 
